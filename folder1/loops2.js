@@ -19,8 +19,3 @@
 //         console.log(i*j)
 //     }
 // }
-
-
-let i = 6;
-let row = '';
-for(let j = 1; j<10)
