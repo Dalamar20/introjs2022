@@ -22,7 +22,7 @@ function fizzbuzz(num) {
 // fizzbuzz(15)
 
 
-function palindromePrinter(x) {
+function palindromePrinter(x) 
     let str = String(x)
     let splitStr = str.split("")
     let reverseArray = splitStr.reverse()
@@ -32,7 +32,7 @@ function palindromePrinter(x) {
     } else {
         return false
 }
-}
+
 
 // console.log(palindromePrinter(18))
 

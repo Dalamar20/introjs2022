@@ -5,6 +5,8 @@
 //     "Apple",
 // ]
 
+
+
 // //console.log(fruits);
 // // console.log(fruits[0])
 
